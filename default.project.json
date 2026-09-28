@@ -1,0 +1,13 @@
+{
+    "name": "serb-dev",
+    "globIgnorePaths": ["**/*.spec.lua"],
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "serb": {
+                "$path": "src"
+            }
+        }
+    }
+}
