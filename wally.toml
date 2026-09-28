@@ -1,0 +1,16 @@
+[package]
+name = "4viyolite/serb"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = [
+    ".github/**",
+    ".vscode/**",
+    "test/**",
+    ".gitattributes",
+    ".gitignore",
+    "*.spec.lua",
+    "default.project.jsonc",
+    "test.project.jsonc",
+    "sourcemap.json"
+]
