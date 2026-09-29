@@ -1,7 +1,7 @@
 [package]
 name = "4viyolite/serb"
 description = "Manual data serialization using Luau buffers"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 authors = ["4Viyolite <4viyolite@gmail.com>"]
 registry = "https://github.com/UpliftGames/wally-index"
